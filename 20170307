@@ -1,6 +1,7 @@
 name = "Nohyun Kim"
 age = 26
 print name, "is", age, "years old"
+
 hometown = "Daegu"
 occupation = "student"
 print "I am a", occupation, "from", hometown
